@@ -8,17 +8,32 @@ I am **Directly Responsible** for attracting, growing, and retaining talented pe
 
 I am **Held Accountable** (by my boss, our stakeholders, and the team as a whole) for the outcomes delivered by my team. Delivery is your core job -- helping you do your job will mean I'm doing mine.
 
+## Things You Should Know About Me
+I have two young kids, and I am actively involved in raising them. I might have to go deal with a meltdown or doctor's appointment at short notice, and I will almost certainly show you pictures of their Halloween costumes.
+
+I have two cats that I love (who tolerate me back), but one day I'll be a dog person again.
+
+I am constantly working on the following: the tendency to talk when I should listen; letting a joke go unsaid when it's inopportune; letting my attention get split; balancing my Rational Mind and Emotion Mind to find my Wise Mind.
+
+I'm a music hound. I was a college radio DJ and am insufferably indie as a result, but I also like hokey old country and classical music. I have played bass guitar, guitar, trombone, ukulele, and piano, in descending order of skill and frequency.
+
+I'm married to a therapist, so the "Wise Mind" stuff above isn't the last time you'll experience me bringing out therapy concepts.
+
 ## What I Value
 I am an annoyingly old-school Agilist, so in the spirit of the Agile Manifesto*:
 
 ### In my time in the software industry, I have come to value
 **The Truth** over **Perceptions**
 
+**Emotional Intelligence** over **Technical Skill**
+
+**Group Achievement** over **Individual Achievement**
+
+**Personal Responsibility** over **Active Management**
+
 **Making Things Better** over **Seeking An Ideal**
 
 **Risk Of Failure** over **Stasis**
-
-**Emotional Intelligence** over **Technical Skill**
 
 That is, while there is value in the items on the right, I value the items on the left more.
 
@@ -29,7 +44,9 @@ That is, while there is value in the items on the right, I value the items on th
 
 **Our Relationship:** A healthy working relationship is key to our success. We need to be able to communicate openly, honestly, with a healthy dose of disagreement. That requires work from both of us.
 
-**Your Growth:** I want you to be able and empowered to do your best work, to strive toward self-actualization. This means growing as a technologist and as a human, pushing your limits, and embracing mistakes as opportunities.
+**Your Growth:** I want you to be able and empowered to do your best work, to strive toward self-actualization. This means growing as a technologist and as a human, pushing your limits, and embracing mistakes as opportunities. I am happy to help guide your journey, but you're always going to be the best driving force behind your career.
+
+**The Team:** I believe in the collective capacity of the team to find the path. If you're feeling off about something, you're likely not the only one. If you want to propose a change or seize an opportunity, run it by me if you want, but I'm going to tell you to talk to the team about it. 
 
 ## The Day-To-Day
 ### 1:1s
@@ -37,7 +54,7 @@ We will have bi-weekly, 30 minute 1:1s on the calendar. If you need more time, I
 
 1:1s are for *you*. It's your time with me to discuss what you want -- your career, the team, the job, video games. I'm loquacious to a fault, and while I am constantly working to counteract that, I can ramble. *Please* don't hesitate to stop me if you've got something you'd like to cover.
 
-I like to use 15Five to maintain some shape for our 1:1s, especially as a way of cutting down on my tendency to ramble. But I don't want to force you to fill out your 15Fives if you don't find them meaningful. If there's something you'd like to discuss, add it to our upcoming 1:1 in 15Five and we can cover it.
+I like to use 15Five to maintain some shape for our 1:1s. But I don't want to force you to fill out your 15Fives if you don't find them meaningful. If there's something you'd like to discuss, add it to our upcoming 1:1 in 15Five and we can cover it, or simply bring it up on the day.
 
 ### Communication
 I am most easily reached via Slack or email. I consider both of these to be asynchronous, which means while I will strive to get back to you in a timely fashion, it probably won't be immediate. If you need me urgently, either call or text me (my number is in Pingboard). By default, I will observe the same rules for communicating with you. If it's urgent, it'll be by phone or text. I might ping you on Slack for something time-sensitive, like "who wants the other half of this sandwich?", but don't consider it a must-drop-everything priority. 🥪
@@ -58,19 +75,10 @@ I like StrengthsFinder. It's not a concrete personality definition, but it can e
 I lead with Strategic Thinking CliftonStrengths themes. Leaders with great Strategic Thinking strengths are the ones who keep us all focused on what could be. They are constantly absorbing and analysing information and helping the team make better decisions. People with strength in this domain continually stretch our thinking for the future.
 
 ### My Bottom 5
-These are things I'm not strong as in, behaviors that don't come easily. When they're needed, I need to work hard to find them.
+These are things I'm not strong as in, behaviors that don't come easily. When they're needed, I have to work hard to find them.
 
 30. **Competition**
 31. **Consistency**
 32. **Significance**
 33. **Discipline**
 34. **Deliberative**
-
-## Things You Should Know About Me
-I have two young kids, and I am actively involved with raising them. I might have to go deal with a meltdown or doctor's appointment at short notice, and I will almost certainly show you pictures of their Halloween costumes.
-
-I have two cats that I love (who tolerate me back), but one day I'll be a dog person again.
-
-I am constantly working on the following: the tendency to talk when I should listen; letting a joke go unsaid when it's inopportune; letting my attention get split; balancing my Rational Mind and Emotional Mind to find my Wise Mind.
-
-I'm married to a therapist, so the "Wise Mind" stuff above isn't the last time you'll experience me bringing out therapy concepts.
