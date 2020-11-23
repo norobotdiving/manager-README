@@ -46,7 +46,7 @@ That is, while there is value in the items on the right, I value the items on th
 
 **Your Growth:** I want you to be able and empowered to do your best work, to strive toward self-actualization. This means growing as a technologist and as a human, pushing your limits, and embracing mistakes as opportunities. I am happy to help guide your journey, but you're always going to be the best driving force behind your career.
 
-**The Team:** I believe in the collective capacity of the team to find the path. If you're feeling off about something, you're likely not the only one. If you want to propose a change or seize an opportunity, run it by me if you want, but I'm going to tell you to talk to the team about it. 
+**The Team:** I believe in the collective capacity of the team to find the path. If you're feeling off about something, you're likely not the only one. If you want to propose a change or seize an opportunity, run it by me if you want, but I'm going to tell you to talk to the team about it.
 
 ## The Day-To-Day
 ### 1:1s
@@ -60,6 +60,16 @@ I like to use 15Five to maintain some shape for our 1:1s. But I don't want to fo
 I am most easily reached via Slack or email. I consider both of these to be asynchronous, which means while I will strive to get back to you in a timely fashion, it probably won't be immediate. If you need me urgently, either call or text me (my number is in Pingboard). By default, I will observe the same rules for communicating with you. If it's urgent, it'll be by phone or text. I might ping you on Slack for something time-sensitive, like "who wants the other half of this sandwich?", but don't consider it a must-drop-everything priority. 🥪
 
 If you need some time with me, go ahead and put something on my calendar. I am pretty rigorous in keeping my availability current, especially in COVID-19 times, so if it's open on my calendar, it's game.
+
+### ~~Micro~~ Management
+You're here because you're good at your job. I'm here to make sure you're set up for success. I am _not_ here to watch over your shoulder or second guess you. But I am an engineer, so I might have questions about the details of an issue. I am seeking to understand, and that's all. I might also have an idea of how to solve a problem. These are always suggestions, and I encourage you to shoot my ideas down in flames with a well-reasoned response.
+
+### Problems And Solutions
+A huge portion of my job is balancing risk and reward on several axes at once. As a result, any unseen risk represents a potential mistake. So I am always interested in hearing about risks and urge you, in no uncertain terms, to tell me as soon as you know or suspect something is awry.
+
+It's possible that I already know about the problem you're coming to me with. I'll let you know that without judgment. I'd rather err on the side of hearing about a problem too many times than not at all.
+
+As much as I love hearing about problems, I love hearing about a solution more. Come prepped with an answer to "Ok, what do we do about it?" and you won't need to hear me ask it, because I will. 
 
 ## StrengthsFinder
 
