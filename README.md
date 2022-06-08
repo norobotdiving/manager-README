@@ -11,7 +11,7 @@ I am **Held Accountable** (by my boss, our stakeholders, and the team as a whole
 ## Things You Should Know About Me
 I have two young kids, and I am actively involved in raising them. I might have to go deal with a meltdown or doctor's appointment at short notice, and I will almost certainly show you pictures of their Halloween costumes.
 
-I have two cats that I love (who tolerate me back), but one day I'll be a dog person again.
+I have two cats that I love (who tolerate me back) and a very neurotic dog.
 
 I am constantly working on the following: the tendency to talk when I should listen; letting a joke go unsaid when it's inopportune; letting my attention get split; balancing my Rational Mind and Emotion Mind to find my Wise Mind.
 
