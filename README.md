@@ -25,7 +25,7 @@ I am an annoyingly old-school Agilist, so in the spirit of the Agile Manifesto*:
 ### In my time in the software industry, I have come to value
 **The Truth** over **Perceptions**
 
-**Emotional Intelligence** over **Technical Skill**
+**Openness to Learning** over **Innate Technical Prowess**
 
 **Group Achievement** over **Individual Achievement**
 
@@ -54,12 +54,10 @@ We will have bi-weekly, 30 minute 1:1s on the calendar. If you need more time, I
 
 1:1s are for *you*. It's your time with me to discuss what you want -- your career, the team, the job, video games. I'm loquacious to a fault, and while I am constantly working to counteract that, I can ramble. *Please* don't hesitate to stop me if you've got something you'd like to cover.
 
-I like to use 15Five to maintain some shape for our 1:1s. But I don't want to force you to fill out your 15Fives if you don't find them meaningful. If there's something you'd like to discuss, add it to our upcoming 1:1 in 15Five and we can cover it, or simply bring it up on the day.
-
 ### Communication
-I am most easily reached via Slack or email. I consider both of these to be asynchronous, which means while I will strive to get back to you in a timely fashion, it probably won't be immediate. If you need me urgently, either call or text me (my number is in Pingboard). By default, I will observe the same rules for communicating with you. If it's urgent, it'll be by phone or text. I might ping you on Slack for something time-sensitive, like "who wants the other half of this sandwich?", but don't consider it a must-drop-everything priority. 🥪
+I am most easily reached via Slack or email. I consider both of these to be asynchronous, which means that while I will strive to get back to you in a timely fashion, it probably won't be immediate. If you need me urgently, either call or text me (my number is in Workday). By default, I will observe the same rules for communicating with you. If it's urgent, it'll be by phone or text. I might ping you on Slack for something time-sensitive, like "who wants the other half of this sandwich?", but don't consider it a must-drop-everything priority. 🥪
 
-If you need some time with me, go ahead and put something on my calendar. I am pretty rigorous in keeping my availability current, especially in COVID-19 times, so if it's open on my calendar, it's game.
+If you need some time with me, go ahead and put something on my calendar. I am pretty rigorous in keeping my availability current, so if it's open on my calendar, it's game.
 
 ### ~~Micro~~ Management
 You're here because you're good at your job. I'm here to make sure you're set up for success. I am _not_ here to watch over your shoulder or second guess you. But I am an engineer, so I might have questions about the details of an issue. I am seeking to understand, and that's all. I might also have an idea of how to solve a problem. These are always suggestions, and I encourage you to shoot my ideas down in flames with a well-reasoned response.
@@ -69,7 +67,7 @@ A huge portion of my job is balancing risk and reward on several axes at once. A
 
 It's possible that I already know about the problem you're coming to me with. I'll let you know that without judgment. I'd rather err on the side of hearing about a problem too many times than not at all.
 
-As much as I love hearing about problems, I love hearing about a solution more. Come prepped with an answer to "Ok, what do we do about it?" and you won't need to hear me ask it, because I will. 
+As much as I love hearing about problems, I love hearing about a solution more. Come prepped with an answer to "Ok, what do we do about it?" and you won't need to hear me ask it, because I will if you don't. 
 
 ## StrengthsFinder
 
