@@ -50,7 +50,7 @@ That is, while there is value in the items on the right, I value the items on th
 
 ## The Day-To-Day
 ### 1:1s
-We will have bi-weekly, 30 minute 1:1s on the calendar. If you need more time, I'm happy to add more. I do want to make sure I'm making good use of your time. The last thing I want is us staring at each other going "yup......yup" when you could be off doing your thing.
+We will have weekly, 30 minute 1:1s on the calendar. If you need more time, I'm happy to add more. I do want to make sure I'm making good use of your time. The last thing I want is us staring at each other going "yup......yup" when you could be off doing your thing.
 
 1:1s are for *you*. It's your time with me to discuss what you want -- your career, the team, the job, video games. I'm loquacious to a fault, and while I am constantly working to counteract that, I can ramble. *Please* don't hesitate to stop me if you've got something you'd like to cover.
 
