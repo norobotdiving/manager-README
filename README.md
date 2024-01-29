@@ -8,17 +8,6 @@ I am **Directly Responsible** for attracting, growing, and retaining talented pe
 
 I am **Held Accountable** (by my boss, our stakeholders, and the team as a whole) for the outcomes delivered by my team. Delivery is your core job -- helping you do your job will mean I'm doing mine.
 
-## Things You Should Know About Me
-I have two young kids, and I am actively involved in raising them. I might have to go deal with a meltdown or doctor's appointment at short notice, and I will almost certainly show you pictures of their Halloween costumes.
-
-I have two cats that I love (who tolerate me back) and a very neurotic dog.
-
-I am constantly working on the following: the tendency to talk when I should listen; letting a joke go unsaid when it's inopportune; letting my attention get split; balancing my Rational Mind and Emotion Mind to find my Wise Mind.
-
-I'm a music hound. I was a college radio DJ and am insufferably indie as a result, but I also like hokey old country and classical music. I have played bass guitar, guitar, trombone, ukulele, and piano, in descending order of skill and frequency.
-
-I'm married to a therapist, so the "Wise Mind" stuff above isn't the last time you'll experience me bringing out therapy concepts.
-
 ## What I Value
 I am an annoyingly old-school Agilist, so in the spirit of the Agile Manifesto*:
 
@@ -69,20 +58,31 @@ It's possible that I already know about the problem you're coming to me with. I'
 
 As much as I love hearing about problems, I love hearing about a solution more. Come prepped with an answer to "Ok, what do we do about it?" and you won't need to hear me ask it, because I will if you don't. 
 
+## Things You Should Know About Me
+I have two young kids, and I am actively involved in raising them. I might have to go deal with a meltdown or doctor's appointment at short notice, and I will almost certainly show you pictures of their Halloween costumes.
+
+I have two cats that I love (who tolerate me back) and a very neurotic dog.
+
+I am constantly working on the following: the tendency to talk when I should listen; letting a joke go unsaid when it's inopportune; letting my attention get split; balancing my Rational Mind and Emotion Mind to find my Wise Mind.
+
+I'm a music hound. I was a college radio DJ and am insufferably indie as a result, but I also like hokey old country and classical music. I have played bass guitar, guitar, trombone, ukulele, and piano, in descending order of skill and frequency.
+
+I'm married to a therapist, so the "Wise Mind" stuff above isn't the last time you'll experience me bringing out therapy concepts.
+
 ## StrengthsFinder
 
-I like StrengthsFinder. It's not a concrete personality definition, but it can enrich your understanding of a person.
+I like [StrengthsFinder](https://www.gallup.com/cliftonstrengths/en/strengthsfinder.aspx). It's not a concrete personality definition, but it can enrich your understanding of a person.
 
-### My Top 5
+### My StrengthsFinder Top 5
 1. **Input**: People exceptionally talented in the Input theme have a need to collect and archive. They may accumulate information, ideas, artefacts or even relationships.
 1. **Intellection**: People exceptionally talented in the Intellection theme are characterised by their intellectual activity. They are introspective and appreciate intellectual discussions.
 1. **Strategic**: People exceptionally talented in the Strategic theme create alternative ways to proceed. Faced with any given scenario, they can quickly spot the relevant patterns and issues.
 1. **Restorative**: People exceptionally talented in the Restorative theme are adept at dealing with problems. They are good at figuring out what is wrong and resolving it.
 1. **Ideation**: People exceptionally talented in the Ideation theme are fascinated by ideas. They are able to find connections between seemingly disparate phenomena.
 
-I lead with Strategic Thinking CliftonStrengths themes. Leaders with great Strategic Thinking strengths are the ones who keep us all focused on what could be. They are constantly absorbing and analysing information and helping the team make better decisions. People with strength in this domain continually stretch our thinking for the future.
+I lead with Strategic Thinking themes. Leaders with great Strategic Thinking strengths are the ones who keep us all focused on what could be. They are constantly absorbing and analysing information and helping the team make better decisions. People with strength in this domain continually stretch our thinking for the future.
 
-### My Bottom 5
+### My StrengthsFinder Bottom 5
 These are things I'm not strong as in, behaviors that don't come easily. When they're needed, I have to work hard to find them.
 
 30. **Competition**
