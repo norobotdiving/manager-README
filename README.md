@@ -9,7 +9,7 @@ I am **Directly Responsible** for attracting, growing, and retaining talented pe
 I am **Held Accountable** (by my boss, our stakeholders, and the team as a whole) for the outcomes delivered by my team. Delivery is your core job -- helping you do your job will mean I'm doing mine.
 
 ## What I Value
-I am an annoyingly old-school Agilist, so in the spirit of the Agile Manifesto*:
+I am an annoyingly old-school Agilist, so in the spirit of the [Agile Manifesto](http://agilemanifesto.org):
 
 ### In my time in the software industry, I have come to value
 **The Truth** over **Perceptions**
@@ -25,8 +25,6 @@ I am an annoyingly old-school Agilist, so in the spirit of the Agile Manifesto*:
 **Risk Of Failure** over **Stasis**
 
 That is, while there is value in the items on the right, I value the items on the left more.
-
-*(http://agilemanifesto.org)
 
 ### These Values In Action  
 **Direct Communication:** I would rather receive bad news early than to be blissfully unaware only to be surprised later. If there's something I don't know that I need to, tell me. If you want to know something, ask. I promise to do the same.
@@ -59,13 +57,15 @@ It's possible that I already know about the problem you're coming to me with. I'
 As much as I love hearing about problems, I love hearing about a solution more. Come prepped with an answer to "Ok, what do we do about it?" and you won't need to hear me ask it, because I will if you don't. 
 
 ## Things You Should Know About Me
-I have two young kids, and I am actively involved in raising them. I might have to go deal with a meltdown or doctor's appointment at short notice, and I will almost certainly show you pictures of their Halloween costumes.
+I have two kids in elementary school, and I am actively involved in raising them. I might have to go deal with a meltdown or a school pickup at short notice. I will almost certainly show you pictures of their Halloween costumes.
 
 I have two cats that I love (who tolerate me back) and a very neurotic dog.
 
 I am constantly working on the following: the tendency to talk when I should listen; letting a joke go unsaid when it's inopportune; letting my attention get split; balancing my Rational Mind and Emotion Mind to find my Wise Mind.
 
 I'm a music hound. I was a college radio DJ and am insufferably indie as a result, but I also like hokey old country and classical music. I have played bass guitar, guitar, trombone, ukulele, and piano, in descending order of skill and frequency.
+
+Over the last few years, I've re-engaged with my love of tabletop role-playing games. I believe that a well-considered RPG campaign is an amazing team-building tool; as such, I've been running a dungeon crawl for my team since January 2023.
 
 I'm married to a therapist, so the "Wise Mind" stuff above isn't the last time you'll experience me bringing out therapy concepts.
 
